@@ -1,0 +1,1 @@
+GROQ_API_KEY = "user groq api key here"
